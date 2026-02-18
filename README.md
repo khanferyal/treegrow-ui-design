@@ -33,25 +33,11 @@ This project focuses on creating an intuitive, engaging, and eco-friendly user e
 
 ---
 
-Screens Preview
-
- Main Screens
-![Home](Screenshots/home.png)
-![Explore](Screenshots/explore.png)
-![Leaderboard](Screenshots/leaderboard.png)
-![Profile](Screenshots/profile.png)
-
-Adoption Flow
-![Join](Screenshots/join-start.png)
-![Choose Tree](Screenshots/choose-tree.png)
-![Location Details](Screenshots/location-details.png)
-![Payment](Screenshots/1payment.png)
-
-
 Figma Prototype
 (https://www.figma.com/proto/wq3FmqftyuavJAt7mk3dfv/TREE-ADOPTION-MOBILE-UI?node-id=0-1&t=xGce1zYt13IMe88h-1)
 
-👩‍💻 Author
+---
 
+Author
 **Feryal Khan**  
 B.Tech Student | UI/UX & Full Stack Enthusiast  
