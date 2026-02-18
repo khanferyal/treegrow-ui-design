@@ -36,16 +36,16 @@ This project focuses on creating an intuitive, engaging, and eco-friendly user e
 Screens Preview
 
  Main Screens
-![Home](screenshots/01-home.png)
-![Explore](screenshots/02-explore.png)
-![Leaderboard](screenshots/03-leaderboard.png)
-![Profile](screenshots/04-profile.png)
+![Home](Screenshots/home.png)
+![Explore](Screenshots/explore.png)
+![Leaderboard](Screenshots/leaderboard.png)
+![Profile](Screenshots/profile.png)
 
 Adoption Flow
-![Join](screenshots/05-join-start.png)
-![Choose Tree](screenshots/08-choose-tree.png)
-![Location Details](screenshots/09-location-details.png)
-![Payment](screenshots/10-payment.png)
+![Join](Screenshots/join-start.png)
+![Choose Tree](Screenshots/choose-tree.png)
+![Location Details](Screenshots/location-details.png)
+![Payment](Screenshots/1payment.png)
 
 
 Figma Prototype
